@@ -1,0 +1,6 @@
+www.fit.vutbr.cz:A
+www.google.com:A
+www.seznam.c:A
+147.229.14.131:PTR
+ihned.cz:B
+djnskjdn:slkdflkem
